@@ -1,6 +1,10 @@
-# TCCv2
+# TCCv2 - Fault identification in PV system with Machine Learning
 
-Fault identification in PV system with Machine Learning
+Fault identification in photovoltaic systems with three different methods. One using the physical model, another a regression for a specific equation (OE) and the last one using the famous machine learning RF model.
+
+Using two global irradiance banding methods for each model.
+
+Visualization and comparing of the results of each model (ComparingResults).
 
 # References
 
